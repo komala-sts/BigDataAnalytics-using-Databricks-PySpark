@@ -2,7 +2,7 @@
 # MSc Data Science Coursework on Big Data Tools and Technics using DataBricks.<br/>
 <h3>1 Tasks</h3>
 2 tasks were given with separate datasets a set of problem statements for each task. Required to implement your solution to each problem based on tasks’ description.
-<h4>2.1. Task 1 (65 marks)</h4>
+<h4>2.1. Task 1 </h4>
 <p align='justify'>You will be using clinical trial datasets in this work and combining the information with a list of pharmaceutical companies. You will be given the answers to the questions, for a basic implementation, for two historical datasets, so you can verify your basic solution to the problems. Your final submission will need to consist of results executed on the third, 2021, release of the data. All data will be available from Blackboard.</p>
 <b>2.1.1. Datasets:</b>
 The data necessary for this assignment will be downloadable as .csv files. The .csv files have a header describing the file’s contents. They are:<br/>
@@ -47,7 +47,7 @@ Successfully implementing Spark functions that you have not used in the workshop
 
 Creation of additional visualizations presenting useful information based on your own exploration which is not covered by the problem statements.<br/>
 
-<h4>2.2. Task 2 (35 marks)</h4>
+<h4>2.2. Task 2 </h4>
 
 <b>2.2.1. Problem statement</b><br/>
 <p align='justify'>For your second task, imagine you are working as a data scientist for a manufacturing company. They are using vibration sensors to monitor the machinery within their production line and want to use this data for predictive maintenance – the aim is to be able to classify whether there is a fault with the machine based on the readings from the vibration sensors. We have provided you with a dataset FaultDataset.csv. Each row contains twenty vibration sensor readings, and the final column identifies whether there was a fault with the machine at the time of the readings. In this column, 0 means there was no fault with the machine and 1 means a fault was identified.</p>
