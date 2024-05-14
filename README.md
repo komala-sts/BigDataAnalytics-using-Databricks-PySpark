@@ -1,7 +1,7 @@
 
 # MSc Data Science Coursework on Big Data Tools and Technics using DataBricks.<br/>
 <h3>1 Tasks</h3>
-You will be given 2 tasks with separate datasets a set of problem statements for each task. You are required to implement your solution to each problem based on tasks’ description.
+2 tasks were given with separate datasets a set of problem statements for each task. Required to implement your solution to each problem based on tasks’ description.
 <h4>2.1. Task 1 (65 marks)</h4>
 <p align='justify'>You will be using clinical trial datasets in this work and combining the information with a list of pharmaceutical companies. You will be given the answers to the questions, for a basic implementation, for two historical datasets, so you can verify your basic solution to the problems. Your final submission will need to consist of results executed on the third, 2021, release of the data. All data will be available from Blackboard.</p>
 <b>2.1.1. Datasets:</b>
