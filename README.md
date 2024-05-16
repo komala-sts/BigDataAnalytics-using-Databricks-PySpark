@@ -1,5 +1,9 @@
 
 # MSc Data Science Coursework on Big Data Tools and Technics using DataBricks.<br/>
+
+## Task 1: Exploratory Data Analysis on clinical Trial Data Base using PySpark, RDD and Spark SQL
+## Task 2: Supervised Machine Learning(ML) using Classification Models - Decision Tree Classifier, Random Forest Classifier and Logistic Regression algoritm. Also, to find Best trained Model for the given dataset.
+### Dataset and the Problem statements are as follows:
 <h3>1 Tasks</h3>
 2 tasks were given with separate datasets a set of problem statements for each task. Required to implement your solution to each problem based on tasks’ description.
 <h4>2.1. Task 1 </h4>
